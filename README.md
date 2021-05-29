@@ -12,3 +12,4 @@ To run the project in your system:<br/>
 5. To Work with multiple wallets we need  to run server on PEER port and run ```npm run dev-peer``` and try to transact in the PEER port using the API calls avilable in the index.js file in backend using POSTMAN and it enables us to watch the chain synchronization in all the nodes so the peer network blockchain is succesfull.
 6. Atlast so now the blockchain runs in HOME Port and PEER port and serves one of the main aspects of blockchain: Interaction and Synchronization of chain among all PEER Nodes in the network.
 
+Thank You
