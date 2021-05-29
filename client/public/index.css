@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Noto Serif', serif;
+  padding-top: 5%;
+  background-color:#f8ede3;
+  word-wrap: break-word;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.logo{
+  width:150px;
+  height:150px;
+}
+.walletInfo{
+  width:500px;
+  margin: auto;
+  word-wrap: break-word;
+}
+.blocks{
+  border:5px solid snow;
+  padding: 5%;
+  width:50%;
+  margin:2% auto 2%;
+
+
+}
+.transaction{
+  padding: 5%;
+}
+.conduct{
+  margin:5% auto;
+  width:50%;
+}
+.conduct input{
+  margin:2%;
+  border-radius: 5px;
+ 
+}
+.transaction-pool{
+  margin:2% 10%;
+}
